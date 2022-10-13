@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 reach me at info@alexbaracat.com
+- 📫 reach me at www.linkedin.com/in/alexbaracat/
 
 <!---
 alexbaracat/alexbaracat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
