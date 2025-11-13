@@ -1,5 +1,3 @@
-- 🌱 I’m currently learning Java & Python
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 reach me at www.linkedin.com/in/alexbaracat/
 
 <!---
