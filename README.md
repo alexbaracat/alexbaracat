@@ -4,7 +4,7 @@
 
 I turn manual tasks into automated workflows with Python, Bash and AI, deploy cloud infrastructure on AWS and Azure, and build LLM-powered applications.
 
-🌐 **[alexbaracat.com](https://www.alexbaracat.com)** · ✍️ [Dev Journal](https://blog.alexbaracat.com) · 💼 [LinkedIn](https://linkedin.com/in/alexbaracat)
+🌐 **[alexbaracat.com](https://www.alexbaracat.com)** · 💼 [LinkedIn](https://linkedin.com/in/alexbaracat)
 
 ## What I work with
 
